@@ -1,0 +1,104 @@
+{
+    "images": [
+        {
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/abcapital-92ca5.appspot.com/o/test_rowy%2Fzzzzzzzzzzzzzzzzzzze%2Fimage%2FsHNlNx3BfWqtwFD3rZ9q-1%20For%20You%20-%204%20products%20CS.webp?alt=media&token=fc2afd1c-b5b7-4558-b8dc-c7348d5ca9c1",
+            "text": "Credit Track",
+            "deeplink": "abcd://adityabirlacapitaldigital.com/homePage/creditScoreInitialPage",
+            "priority": 1,
+            "image_potrait": "https://firebasestorage.googleapis.com/v0/b/abcapital-92ca5.appspot.com/o/test_rowy%2Fzzzzzzzzzzzzzzzzzzzg%2Fimage%2FaooUdTB21cLmYgcYuFiY-2%20For%20You%20-%203%20products%20CS%202X1.webp?alt=media&token=7293baa6-5b91-45eb-aa91-b7f8146c6e9c",
+            "l-shaped": "https://firebasestorage.googleapis.com/v0/b/abcapital-92ca5.appspot.com/o/test_rowy%2FzzzzzzzzzzzzzzzzzzzV%2Fimage%2F8C2Jn4x4plJsrtTX8Znu-4%20For%20You%20-%202%20products%20CS%20L.webp?alt=media&token=93a22a7a-b147-43d8-891a-921f15244d34"
+        },
+        {
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/abcapital-92ca5.appspot.com/o/test_rowy%2Fzzzzzzzzzzzzzzzzzzzd%2Fimage%2Fhqk8QsGXNCIEsJfWoqB1-1%20For%20You%20-%204%20products%20PC.webp?alt=media&token=62407502-74e8-4097-80a8-9656918e54b8",
+            "text": "Portfolio Track",
+            "deeplink": "abcd://adityabirlacapitaldigital.com/homePage/PortFolioTrackDeepLink",
+            "priority": 2,
+            "image_potrait": "https://firebasestorage.googleapis.com/v0/b/abcapital-92ca5.appspot.com/o/test_rowy%2Fzzzzzzzzzzzzzzzzzzzl%2Fimage%2F4XvJgPCBZuSAH2vm3nI4-2%20For%20You%20-%203%20products%20PC%202X1.webp?alt=media&token=1c80b154-061a-4e3f-bfd3-9455dbe88516",
+            "l-shaped": "https://firebasestorage.googleapis.com/v0/b/abcapital-92ca5.appspot.com/o/test_rowy%2FzzzzzzzzzzzzzzzzzzzX%2Fimage%2F3wWjivuegwdXSbNr4PlO-4%20For%20You%20-%202%20products%20PC%20L.webp?alt=media&token=42413948-edcc-4e25-86c9-30d0d4747a66"
+        },
+        {
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/abcapital-92ca5.appspot.com/o/test_rowy%2Fzzzzzzzzzzzzzzzzzzzb%2Fimage%2Fc2S4LRUJtYMTweK7XVTD-1%20For%20You%20-%204%20products%20ST.webp?alt=media&token=262d279e-e00c-4abb-8989-b9a2c82391c1",
+            "text": "Spend Track",
+            "deeplink": "app://deeplink3",
+            "priority": 3,
+            "image_potrait": "https://firebasestorage.googleapis.com/v0/b/abcapital-92ca5.appspot.com/o/test_rowy%2Fzzzzzzzzzzzzzzzzzzzh%2Fimage%2FlfQM6RkyVT6kAZetNuKW-2%20For%20You%20-%203%20products%20ST%202X1.webp?alt=media&token=2c3e805e-a667-4ba0-a4cc-999b8e5b64c0",
+            "l-shaped": "https://firebasestorage.googleapis.com/v0/b/abcapital-92ca5.appspot.com/o/test_rowy%2FzzzzzzzzzzzzzzzzzzzZ%2Fimage%2FaA4cF6Qs7Kmf6YmizIws-4%20For%20You%20-%202%20products%20ST%20L.webp?alt=media&token=d9fd706c-acad-48f2-8783-b85842ea2518"
+        },
+        {
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/abcapital-92ca5.appspot.com/o/test_rowy%2Fzzzzzzzzzzzzzzzzzzzc%2Fimage%2Fg4qrdOGgl04uqd1I7dH9-1%20For%20You%20-%204%20products%20DHE.webp?alt=media&token=638a546e-b880-416f-bf2f-74b8a2b36302",
+            "text": "Health Track",
+            "deeplink": "app://deeplink4",
+            "priority": 4,
+            "image_potrait": "https://firebasestorage.googleapis.com/v0/b/abcapital-92ca5.appspot.com/o/test_rowy%2Fzzzzzzzzzzzzzzzzzzzj%2Fimage%2FCh3yavJqhwj1DNXaUdsC-2%20For%20You%20-%203%20products%20DHE%202X1.webp?alt=media&token=7cc3340d-1e61-44c4-be3a-6b9613ebcdbc",
+            "l-shaped": ""
+        }
+    ]
+}
+
+{
+    "images": [
+        {
+            "image_url": "https://www.myvi.in/content/dam/vodafoneideadigital/anonpage/banner4.png",
+            "enable": 1,
+            "deeplink": "abcd://adityabirlacapitaldigital.com/homePage/PortFolioTrackDeepLink",
+        },
+        {
+            "image_url": "https://www.myvi.in/content/dam/vodafoneideadigital/anonpage/banner2.png",
+            "deeplink": "app://deeplink3",
+            "enable": 1,
+        },
+        {
+            "image_url": "https://www.myvi.in/content/dam/vodafoneideadigital/newhomepage/desk-Generic-2GB-data.webp",
+            "deeplink": "app://deeplink4",
+            "enable": 1
+        }
+    ]
+}
+
+{
+
+    "icons":[
+        {
+            "icon_url": "https://cdn-icons-png.flaticon.com/128/2635/2635657.png",
+            "enable": 1,
+            "deeplink": "abcd://adityabirlacapitaldigital.com/homePage/PortFolioTrackDeepLink",
+        },
+        {
+            "image_url": "https://cdn-icons-png.flaticon.com/128/6184/6184467.png",
+            "enable": 1,
+            "deeplink": "abcd://adityabirlacapitaldigital.com/homePage/PortFolioTrackDeepLink",
+        },
+        {
+            "image_url": "https://cdn-icons-png.flaticon.com/128/6418/6418361.png",
+            "enable": 1,
+            "deeplink": "abcd://adityabirlacapitaldigital.com/homePage/PortFolioTrackDeepLink",
+        }
+
+
+
+    ]
+}
+
+Top Banner - 
+{
+    "images": [
+      {
+        "image_url": "https://i.ibb.co/JpvFSpJ/IMG-6639.jpg",
+        "enable": 1,
+        "type": "Personal Accident Cover",
+        "deeplink": "abcd://adityabirlacapitaldigital.com/homePage/PortFolioTrackDeepLink"
+      },
+      {
+        "image_url": "https://i.ibb.co/bN86P9k/IMG-6640.jpg",
+        "deeplink": "app://deeplink3",
+        "type": "Health Cover",
+        "enable": 1
+      },
+      {
+        "image_url": "https://i.ibb.co/2YbL04Y/IMG-6641.jpg",
+        "deeplink": "app://deeplink4",
+        "type": "Credit Score",
+        "enable": 1
+      }
+    ]
+  }
